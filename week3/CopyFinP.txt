@@ -1,0 +1,13 @@
+Content Sections for Personal Website: Each section will have links for more information.
+
+About Me: In this section I will talk about myself and the city of Detroit. I will also explain why I decided to create the site.
+
+Art/Culture: In this section I will showcase art and culture from around the city. I will feature people that I think are doing good things for the city through the use of art.
+
+Food/Restaurants: I will showcase restaurants I've visited and others that were recommended to me.
+
+Photography: I will take photos of places that capture the spirit of Detroit.
+
+Current/Past Events: I will take photos at events around the city to show a variety of things the city has to offer.
+
+Contact Info: This section will have my contact information.
