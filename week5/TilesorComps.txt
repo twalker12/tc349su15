@@ -1,4 +1,4 @@
-I spent a lot of time working on the style tiles. I didn't that it would take me
+I spent a lot of time working on the style tiles. I didn't think that it would take me
 as long as it did. I had never worked with style tiles before so it took me a
 while to understand exactly what I wanted to do. For my first style tile I
 wasn't sure which direction I wanted to go in. Once I started my second style
